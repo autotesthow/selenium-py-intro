@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "selenium-demo-py"
+name = "selenium-py-intro"
 version = "0.1.0"
 description = ""
 authors = ["yashaka <yashaka@gmail.com>"]
 readme = "README.md"
-packages = [{include = "selenium_demo_py"}]
+packages = [{include = "selenium_py_intro"}]
 
 [tool.poetry.dependencies]
 python = "^3.9"

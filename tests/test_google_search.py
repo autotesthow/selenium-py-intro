@@ -1,4 +1,4 @@
-# selenium-demo-py/tests/test_google_search.py
+# selenium-py-intro/tests/test_google_search.py
 
 
 from selenium import webdriver
